@@ -1,4 +1,4 @@
 # Short-term-trajectory-prediction-for-autonomous-vehicle
 
 
-The datatset and code will be update after acceptance of paper 
+## After the article is accepted, the datatset and code will be updated.
