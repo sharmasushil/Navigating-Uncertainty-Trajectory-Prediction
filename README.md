@@ -31,7 +31,9 @@ To access the dataset, please click [here](https://drive.google.com/drive/folder
 
 <img width="500" alt="Screenshot 2023-05-16 at 14 46 38" src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/c606d5a1-f400-449b-9fae-47c376414e5d">
 
+## Demo 🎬
 
+https://youtu.be/DZDqGbkInko
 
 ## Contact ✉️
 
