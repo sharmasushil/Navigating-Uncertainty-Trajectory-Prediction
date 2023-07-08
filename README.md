@@ -30,17 +30,6 @@ If you use this dataset in your research or work, we kindly request that you cit
 To access the dataset, please click [here](https://drive.google.com/drive/folders/1JPb64bGV88ymZkJrUBaKQg12tToZVF7T?usp=sharing) to visit the download page.
 
 
-<!---
-<div style="display: flex;">
-  <img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/5b6d04b4-ad09-4927-a783-2f3e70d9e02d" alt="Screenshot 1" width="400">
-  <img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/a64bd0f7-c4e8-4d58-b4d7-43e7a4690b24" alt="Screenshot 2" width="400">
-</div>
--->
-
-
-
-
-
 ![Screenshot 2023-05-16 at 14 41 50 (1)](https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/a64bd0f7-c4e8-4d58-b4d7-43e7a4690b24)
 
 
