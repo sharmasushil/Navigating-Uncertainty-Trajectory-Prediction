@@ -1,4 +1,4 @@
-# Short-term-trajectory-prediction-for-autonomous-vehicle
+# Navigating Uncertainty: The Role of Short-Term Trajectory Prediction in Autonomous Vehicle Safety
 
 
-### The datatset and code will be relased soon
+### The dataset and code will be released soon
