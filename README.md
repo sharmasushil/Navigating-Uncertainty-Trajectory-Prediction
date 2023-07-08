@@ -31,9 +31,6 @@ To access the dataset, please click [here](https://drive.google.com/drive/folder
 <img width="400" alt="Screenshot 2023-05-16 at 14 46 38" src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/5b6d04b4-ad09-4927-a783-2f3e70d9e02d">
 
 
-![Screenshot 2023-05-16 at 14 41 50](https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/3baff2c3-6df2-4165-b78f-5256b1140bbd)
-
-
 ## Contact ✉️
 
 For any questions or inquiries regarding the dataset, please contact [sushil.sharma@ul.ie](sushil.sharma@ul.ie).
