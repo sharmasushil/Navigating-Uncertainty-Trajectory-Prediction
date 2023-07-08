@@ -34,9 +34,7 @@ If you use this dataset in your research or work, we kindly request that you cit
 
 To access the dataset, please click [here](https://example.com/dataset) to visit the download page.
 
-## License
 
-The images in this dataset are released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). By using this dataset, you agree to the terms and conditions specified in the license.
 
 ## Contact
 
