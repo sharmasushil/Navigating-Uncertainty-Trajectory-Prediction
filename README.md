@@ -10,10 +10,9 @@ This repository contains a collection of perspective-view images captured from t
 
 The network developed in this work is designed to predict the future trajectories of a vehicle based on a sequence of perspective-view images. It comprises two primary components: a Convolutional Neural Network (CNN) and a Long-Short Term Memory Network (LSTM).
 
-<img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/ddc90a5f-320e-4cef-a1f0-7ceacd8cea03" width="48">
+<img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/ddc90a5f-320e-4cef-a1f0-7ceacd8cea03" width="450">
 
 
-![Screenshot from 2022-08-15 11-03-22 (2) (2)](https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/ddc90a5f-320e-4cef-a1f0-7ceacd8cea03)
 
 
 ## Dataset Description: 💻
