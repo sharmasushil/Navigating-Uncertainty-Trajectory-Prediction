@@ -7,6 +7,9 @@ Abstract: Autonomous vehicles require accurate and reliable short-term trajector
 This repository contains a collection of perspective-view images captured from the Carla simulator. The images are intended for research and development purposes in the field of computer vision, machine learning, and autonomous driving.
 
 # Architecture Topology ⛓️
+
+The network developed in this work is designed to predict the future trajectories of a vehicle based on a sequence of perspective-view images. It comprises two primary components: a Convolutional Neural Network (CNN) and a Long-Short Term Memory Network (LSTM).
+
 ![Screenshot from 2022-08-15 11-03-22 (2) (2)](https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/ddc90a5f-320e-4cef-a1f0-7ceacd8cea03)
 
 
