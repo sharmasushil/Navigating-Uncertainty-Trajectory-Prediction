@@ -27,7 +27,7 @@ If you use this dataset in your research or work, we kindly request that you cit
 
 ## Download Dataset 📈
 
-To access the dataset, please click [here](https://drive.google.com/drive/folders/1JPb64bGV88ymZkJrUBaKQg12tToZVF7T?usp=sharing) to visit the download page.
+To access the dataset, please click here for [Download](https://drive.google.com/drive/folders/1JPb64bGV88ymZkJrUBaKQg12tToZVF7T?usp=sharing) to visit the download page.
 
 <img width="500" alt="Screenshot 2023-05-16 at 14 46 38" src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/c606d5a1-f400-449b-9fae-47c376414e5d">
 
