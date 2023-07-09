@@ -6,6 +6,10 @@ Abstract: Autonomous vehicles require accurate and reliable short-term trajector
 
 This repository contains a collection of perspective-view images captured from the Carla simulator. The images are intended for research and development purposes in the field of computer vision, machine learning, and autonomous driving.
 
+# Architecture Topology ⛓️
+![Screenshot from 2022-08-15 11-03-22 (2) (2)](https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/ddc90a5f-320e-4cef-a1f0-7ceacd8cea03)
+
+
 ## Dataset Description: 💻
 
 The dataset comprises a set of perspective-view images captured from different camera angles and positions within the Carla simulator environment. The images are saved in PNG format and have a resolution of 1280x720 pixels. Each image is associated with a timestamp indicating the time of capture.
