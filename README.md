@@ -4,7 +4,7 @@ Abstract: Autonomous vehicles require accurate and reliable short-term trajector
 
 # Perspective View Images from Carla 📌
 
-This repository contains a collection of perspective-view images captured from the Carla simulator. The images are intended for research and development purposes in the field of computer vision, machine learning, and autonomous driving.
+This repository contains a collection of perspective-view images captured from the Carla simulator. The images are intended for research and development purposes in the fields of computer vision, machine learning, and autonomous driving.
 
 # Architecture Topology ⛓️
 
@@ -25,7 +25,7 @@ The dataset comprises a set of perspective-view images captured from different c
 The images in this dataset can be used for various purposes, including:
 
 - Training and evaluating computer vision algorithms
-- Developing and testing machine learning models for object detection, semantic segmentation, or other vision tasks
+- Developing and testing machine learning models for trajectory prediction, object detection, semantic segmentation, or other vision tasks
 - Conducting research in the field of autonomous driving and perception systems
 
 ## Citation👇🏻
