@@ -41,7 +41,7 @@ To access the dataset, please click [here](https://drive.google.com/drive/folder
 <img width="500" alt="Screenshot 2023-05-16 at 14 46 38" src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/c606d5a1-f400-449b-9fae-47c376414e5d">
 
 
-## Results 
+## Results 📈
 We showcase the resilience of our model in dealing with challenging scenarios, including pedestrian crossings, without relying on the explicit encoding of contextual information. The figure below illustrates a comparison between Ground Truth (shown in blue) and Predicted Bounding Boxes (highlighted in red) for trajectory prediction.
 
 <img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/28714df0-6f9d-4048-b51b-bbd43c4deb62" width = "850">
