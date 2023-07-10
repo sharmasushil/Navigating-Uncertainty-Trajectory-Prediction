@@ -44,7 +44,9 @@ To access the dataset, please click [here](https://drive.google.com/drive/folder
 ## Results 
 
 
-<img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/ddc90a5f-320e-4cef-a1f0-7ceacd8cea03](https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/0853680a-e50f-4a78-9f22-782e07112d75" width="850">
+
+<img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/f05f15fc-0c7f-4f2f-a09e-aa167090b762" width = "850">
+
 
 
 ## Demo 🎬
