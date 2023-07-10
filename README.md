@@ -20,7 +20,7 @@ The following diagram illustrates a suggested topology for a CNN architecture de
 
 ## Dataset Description: 💻
 
-The dataset comprises a set of perspective-view images captured from different camera angles and positions within the Carla simulator environment. The images are saved in PNG format and have a resolution of 1280x720 pixels. Each image is associated with a timestamp indicating the time of capture.
+The dataset comprises a set of perspective-view images captured from different camera angles and positions within the Carla simulator environment. The images are saved in PNG format and have a resolution of 800 x 600 pixels. Each image is associated with a timestamp indicating the time of capture.
 
 
 ## Usage ⚙️
