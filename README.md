@@ -41,7 +41,7 @@ If you use this dataset in your research or work, we kindly request that you cit
 
 To access the dataset, please click [Dataset Download (< 1 GB)](https://drive.google.com/drive/folders/1JPb64bGV88ymZkJrUBaKQg12tToZVF7T?usp=sharing)  to visit the download page.
 
-# Data statistics for each class of our newly created dataset
+#### Data statistics for each class of our newly created dataset
 
 
 <img width="800" alt="Screenshot 2023-07-10 at 12 15 06" src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/50be7c3c-dead-4625-9f4d-d446be6992ee">
