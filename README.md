@@ -42,7 +42,7 @@ To access the dataset, please click [here](https://drive.google.com/drive/folder
 
 
 ## Results 
-Demonstrating the robustness of our model in handling corner cases, such as pedestrian crossings, without explicit encoding of surrounding knowledge. The comparison of Ground Truth (blue) and Predicted Bounding Boxes (red) for trajectory prediction
+We showcase the resilience of our model in dealing with challenging scenarios, including pedestrian crossings, without relying on the explicit encoding of contextual information. The figure below illustrates a comparison between Ground Truth (shown in blue) and Predicted Bounding Boxes (highlighted in red) for trajectory prediction.
 
 <img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/28714df0-6f9d-4048-b51b-bbd43c4deb62" width = "850">
 
