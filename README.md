@@ -9,7 +9,9 @@ This repository contains a collection of perspective-view images captured from t
 
 # Architecture Topology ⛓️
 
-The network developed in this work is designed to predict the future trajectories of a vehicle based on a sequence of perspective-view images. It comprises two primary components: a Convolutional Neural Network (CNN) and a Long-Short Term Memory Network (LSTM).
+The network developed in this work is designed to predict the future trajectories of a vehicle based on a sequence of perspective-view images. It comprises two primary components: a Convolutional Neural Network (CNN) and a Long-Short Term Memory Network (LSTM
+
+The following diagram illustrates a suggested topology for a CNN architecture designed to estimate trajectories from image sequences. It highlights the progression of information flow across convolutional and fully connected layers.
 
 <img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/ddc90a5f-320e-4cef-a1f0-7ceacd8cea03" width="850">
 
