@@ -43,8 +43,11 @@ To access the dataset, please click [Dataset Download (< 1 GB)](https://drive.go
 
 #### Data statistics for each class of our newly created dataset
 
+![Screenshot 2023-07-11 at 13 31 36](https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/005e061f-dc22-453e-ab45-d29ca7ca8b28)
 
-<img width="800" alt="Screenshot 2023-07-10 at 12 15 06" src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/50be7c3c-dead-4625-9f4d-d446be6992ee">
+<img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/28714df0-6f9d-4048-b51b-bbd43c4deb62" width = "850">
+
+
 
 ## CARLA Results Visualization 📈
 We showcase the resilience of our model in dealing with challenging scenarios, including pedestrian crossings, without relying on the explicit encoding of contextual information. The figure below illustrates a comparison between Ground Truth (shown in blue) and Predicted Bounding Boxes (highlighted in red) for trajectory prediction.
