@@ -15,6 +15,7 @@ The following diagram illustrates a suggested topology for a CNN architecture de
 
 ![Screenshot from 2022-08-15 11-03-22 (2) (2)](https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/45e80d08-a5a7-4f44-86b3-3ac89846fb31)
 
+<img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/45e80d08-a5a7-4f44-86b3-3ac89846fb31" width = "850">
 
 
 
