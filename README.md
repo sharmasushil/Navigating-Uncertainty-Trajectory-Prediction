@@ -13,8 +13,8 @@ The network developed in this work is designed to predict the future trajectorie
 
 The following diagram illustrates a suggested topology for a CNN architecture designed to estimate trajectories from image sequences. It highlights the progression of information flow across convolutional and fully connected layers.
 
-<img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/ddc90a5f-320e-4cef-a1f0-7ceacd8cea03" width="850">
 
+![Screenshot 2023-07-11 at 13 31 36](https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/a6c4bcfa-67d0-4420-8739-b25328dd92a0)
 
 
 
