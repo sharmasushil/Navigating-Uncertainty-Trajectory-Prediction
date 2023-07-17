@@ -34,6 +34,14 @@ The images in this dataset can be used for various purposes, including:
 ## Citation👇🏻
 
 If you use this dataset in your research or work, we kindly request that you cite the following paper:
+@misc{sharma2023navigating,
+      title={Navigating Uncertainty: The Role of Short-Term Trajectory Prediction in Autonomous Vehicle Safety}, 
+      author={Sushil Sharma and Ganesh Sistu and Lucie Yahiaoui and Arindam Das and Mark Halton and Ciarán Eising},
+      year={2023},
+      eprint={2307.05288},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 [Insert paper citation here]
 
