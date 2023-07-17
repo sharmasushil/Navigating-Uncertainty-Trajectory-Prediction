@@ -1,7 +1,11 @@
 <p align="center">
     <h3 align="center"><a href="https://arxiv.org/abs/2307.05288">📑Article</a> | <a href="https://youtu.be/DZDqGbkInko">📹Video</a> </h3> | <a href="https://youtu.be/ZwhXilQKULY?t=1975">Talk</a> 
 </p>
-
+<p align="center">
+    <img alt="nuplangarage" src="assets/nuplan_garage_white.png" width="500">
+    <h1 align="center">A Framework for Vehicle Motion Planning</h1>
+    <h3 align="center"><a href="https://arxiv.org/pdf/2306.07962.pdf">PDF</a> | <a href="https://danieldauner.github.io/assets/pdf/suppmat/suppmat_dauner2023parting.pdf">Supplementary</a> | <a href="https://youtu.be/ZwhXilQKULY?t=1975">Talk</a> | <a href="https://danieldauner.github.io/assets/pdf/slides/slides_dauner2023parting.pdf">Slides</a> | <a href="https://youtu.be/oIOYQAR5P4w">Video</a> </h3>
+</p>
 
 # Navigating Uncertainty: The Role of Short-Term Trajectory Prediction in Autonomous Vehicle Safety 🚘
 Abstract: Autonomous vehicles require accurate and reliable short-term trajectory predictions for safe and efficient driving. While most commercial automated vehicles currently use state machine-based algorithms for trajectory forecasting, recent efforts have focused on end-to-end data-driven systems. Often, the design of these models is limited by the availability of datasets, which are typically restricted to generic scenarios. To address this limitation, we have developed a synthetic dataset for short-term trajectory prediction tasks using the CARLA simulator. This dataset is extensive and incorporates what is considered complex scenarios - pedestrians crossing the road, vehicles overtaking - and comprises 6000 perspective view images with corresponding IMU and odometry information for each frame. Furthermore, an end-to-end short-term trajectory prediction model using convolutional neural networks (CNN) and long short-term memory (LSTM) networks has also been developed. This model can handle corner cases, such as slowing down near zebra crossings and stopping when pedestrians cross the road, without the need for explicit encoding of the surrounding environment. In an effort to accelerate this research and assist others, we are releasing our dataset and model to the research community.
