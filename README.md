@@ -35,7 +35,11 @@ The images in this dataset can be used for various purposes, including:
 
 If you use this dataset in your research or work, we kindly request that you cite the following paper:
 
-('''python main.py''')
+To run the project, follow these steps:
+$ python main.py
+
+
+
 
 [Insert paper citation here]
 
