@@ -78,8 +78,15 @@ We showcase the resilience of our model in dealing with challenging scenarios, i
 
 https://youtu.be/DZDqGbkInko
 
+## Auxiliary Task
+https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/1cc9eb69-b683-4650-aead-1873d2ab7b08
+
+
 
 ## Contact ✉️
+
+
+
 
 For any questions or inquiries regarding the dataset, please contact [sushil.sharma@ul.ie](sushil.sharma@ul.ie).
 
