@@ -35,7 +35,7 @@ The images in this dataset can be used for various purposes, including:
 
 If you use this dataset in your research or work, we kindly request that you cite the following paper:
 
-
+https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/blob/main/citation.bib
 
 
 [Insert paper citation here]
