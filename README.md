@@ -80,7 +80,7 @@ https://youtu.be/DZDqGbkInko
 
 ## Auxiliary Task
 
-<img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/1cc9eb69-b683-4650-aead-1873d2ab7b08" width = "450">
+<img src="https://github.com/sharmasushil/Navigating-Uncertainty-Trajectory-Prediction/assets/70905483/1cc9eb69-b683-4650-aead-1873d2ab7b08" width = "850">
 
 
 
