@@ -1,8 +1,8 @@
 <p align="center">
-    <h3 align="center"><a href="https://arxiv.org/abs/2307.05288">📑Article</a> | <a href="https://youtu.be/DZDqGbkInko">📹Video</a> </h3> | <a href="https://youtu.be/ZwhXilQKULY?t=1975">Talk</a> 
+    <h3 align="center"><a href="https://arxiv.org/abs/2307.05288">📑Article</a> | <a href="https://youtu.be/DZDqGbkInko">📹Video</a> </h3> 
 </p>
 <p align="center">
-    <h3 align="center"><a href="https://arxiv.org/pdf/2307.05288.pdf">Article</a>  | <a href="https://youtu.be/ZwhXilQKULY?t=1975">Talk</a> | <a href="https://youtu.be/oIOYQAR5P4w">Video</a> </h3>
+    <h3 align="center"><a href="https://arxiv.org/pdf/2307.05288.pdf">Article</a>  | <a href="https://youtu.be/ZwhXilQKULY?t=1975">Dataset</a> | <a href="https://youtu.be/oIOYQAR5P4w">Video</a> </h3>
 </p>
 
 # Navigating Uncertainty: The Role of Short-Term Trajectory Prediction in Autonomous Vehicle Safety 🚘
