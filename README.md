@@ -38,7 +38,15 @@ The images in this dataset can be used for various purposes, including:
 
 If you use this dataset in your research or work, we kindly request that you cite the following paper:
 
-
+```BibTeX
+@article{Dauner2023ARXIV,
+  title={Parting with Misconceptions about Learning-based Vehicle Motion Planning},
+  author={Dauner, Daniel and Hallgarten, Marcel and Geiger, Andreas and Chitta, Kashyap},
+  journal={arXiv},
+  volume={2306.07962},
+  year={2023}
+}
+```
 
 
 
