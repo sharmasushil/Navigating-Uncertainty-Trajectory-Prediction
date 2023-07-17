@@ -1,5 +1,5 @@
 <p align="center">
-    <h3 align="center"><a href="https://arxiv.org/abs/2307.05288">📑Article</a> | <a href="https://youtu.be/DZDqGbkInko">Video</a> </h3>
+    <h3 align="center"><a href="https://arxiv.org/abs/2307.05288">📑Article</a> | <a href="https://youtu.be/DZDqGbkInko">📹Video</a> </h3>
 </p>
 
 
