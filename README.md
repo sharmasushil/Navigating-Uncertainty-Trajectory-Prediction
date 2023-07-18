@@ -27,7 +27,7 @@ The following diagram illustrates a suggested topology for a CNN architecture de
 
 The dataset comprises a set of perspective-view images captured from different camera angles and positions within the Carla simulator environment. The images are saved in PNG format and have a resolution of 800 x 600 pixels. Each image is associated with a timestamp indicating the time of capture.
 
-Ablation study 
+## Ablation study 
 An ablation study on the number of LSTM cells ($\alpha$=1, $\beta$=2, $\gamma$=3, $\delta$=4) is conducted on our CNN-LSTM model. This comparison was performed using the CARLA dataset for the two specified levels, Level 1 and Level 2 respectively. For this analysis, three evaluation metrics - RMSE, MAPE, and AED. A summary of the results is shown in Table \ref{table:3}. 
 
 
