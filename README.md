@@ -30,9 +30,9 @@ The dataset comprises a set of perspective-view images captured from different c
 ## Ablation study 
 An ablation study on the number of LSTM cells ($\alpha$=1, $\beta$=2, $\gamma$=3, $\delta$=4) is conducted on our CNN-LSTM model. This comparison was performed using the CARLA dataset for the two specified levels, Level 1 and Level 2 respectively. For this analysis, three evaluation metrics - ARMSE, AMAPE, and AED. A summary of the results is shown in Table 1.
 
-- # ARMSE: Average Root Mean Square Error
-- # AMAPE: Average Mean Absolute Percentage Error
-- # AED: Average Euclidean Distance 
+- ### ARMSE: Average Root Mean Square Error
+- ### AMAPE: Average Mean Absolute Percentage Error
+- ### AED: Average Euclidean Distance 
 
 | CARLA: Dataset | Model | ARMSE ↓ | AMAPE ↓ | AED ↓ |
 |---|---|---|---|---|
