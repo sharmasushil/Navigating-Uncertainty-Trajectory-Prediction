@@ -4,7 +4,7 @@
 </p>
 
 # Navigating Uncertainty: The Role of Short-Term Trajectory Prediction in Autonomous Vehicle Safety 🚘
-Abstract: Autonomous vehicles require accurate and reliable short-term trajectory predictions for safe and efficient driving. While most commercial automated vehicles currently use state machine-based algorithms for trajectory forecasting, recent efforts have focused on end-to-end data-driven systems. Often, the design of these models is limited by the availability of datasets, which are typically restricted to generic scenarios. To address this limitation, we have developed a synthetic dataset for short-term trajectory prediction tasks using the CARLA simulator. This dataset is extensive and incorporates what is considered complex scenarios - pedestrians crossing the road, vehicles overtaking - and comprises 6000 perspective view images with corresponding IMU and odometry information for each frame. Furthermore, an end-to-end short-term trajectory prediction model using convolutional neural networks (CNN) and long short-term memory (LSTM) networks has also been developed. This model can handle corner cases, such as slowing down near zebra crossings and stopping when pedestrians cross the road, without the need for explicit encoding of the surrounding environment. In an effort to accelerate this research and assist others, we are releasing our dataset and model to the research community.
+Abstract: Autonomous vehicles require accurate and reliable short-term trajectory predictions for safe and efficient driving. While most commercial automated vehicles currently use state machine-based algorithms for trajectory forecasting, recent efforts have focused on end-to-end data-driven systems. Often, the design of these models is limited by the availability of datasets, which are typically restricted to generic scenarios. To address this limitation, we have developed a synthetic dataset for short-term trajectory prediction tasks using the CARLA simulator. This dataset is extensive and incorporates what is considered complex scenarios - pedestrians crossing the road, vehicles overtaking - and comprises 6000 perspective view images with corresponding IMU and odometry information for each frame. Furthermore, an end-to-end short-term trajectory prediction model using convolutional neural networks (CNN) and long short-term memory (LSTM) networks has also been developed. This model can handle corner cases, such as slowing down near zebra crossings and stopping when pedestrians cross the road, without the need for explicit encoding of the surrounding environment. To accelerate this research and assist others, we are releasing our dataset and model to the research community.
 
 
 
@@ -28,7 +28,11 @@ The following diagram illustrates a suggested topology for a CNN architecture de
 The dataset comprises a set of perspective-view images captured from different camera angles and positions within the Carla simulator environment. The images are saved in PNG format and have a resolution of 800 x 600 pixels. Each image is associated with a timestamp indicating the time of capture.
 
 ## Ablation study 
-An ablation study on the number of LSTM cells ($\alpha$=1, $\beta$=2, $\gamma$=3, $\delta$=4) is conducted on our CNN-LSTM model. This comparison was performed using the CARLA dataset for the two specified levels, Level 1 and Level 2 respectively. For this analysis, three evaluation metrics - RMSE, MAPE, and AED. A summary of the results is shown in Table \ref{table:3}.
+An ablation study on the number of LSTM cells ($\alpha$=1, $\beta$=2, $\gamma$=3, $\delta$=4) is conducted on our CNN-LSTM model. This comparison was performed using the CARLA dataset for the two specified levels, Level 1 and Level 2 respectively. For this analysis, three evaluation metrics - ARMSE, AMAPE, and AED. A summary of the results is shown in Table 1.
+
+ARMSE: Average Root Mean Square Error
+AMAPE: Average Mean Absolute Percentage Error
+AED: Average Euclidean Distance 
 
 | CARLA: Dataset | Model | ARMSE ↓ | AMAPE ↓ | AED ↓ |
 |---|---|---|---|---|
