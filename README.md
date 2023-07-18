@@ -30,7 +30,7 @@ The dataset comprises a set of perspective-view images captured from different c
 ## Ablation study 
 An ablation study on the number of LSTM cells ($\alpha$=1, $\beta$=2, $\gamma$=3, $\delta$=4) is conducted on our CNN-LSTM model. This comparison was performed using the CARLA dataset for the two specified levels, Level 1 and Level 2 respectively. For this analysis, three evaluation metrics - RMSE, MAPE, and AED. A summary of the results is shown in Table \ref{table:3}.
 
-| CARLA: Dataset | Model | ARMSE | AMAPE | AED |
+| CARLA: Dataset | Model | ARMSE ↓ | AMAPE ↓ | AED ↓ |
 |---|---|---|---|---|
 | Dataset: Level 1 | CNN-LSTM ($\alpha$)<br>   CNN-LSTM ($\beta$)<br>  CNN-LSTM ($\gamma$)<br> **CNN-LSTM ($\delta$)**   | 0.0046<br>  0.0034<br>  0.0028<br> **0.0024** | 0.0056<br>  0.0043<br>  0.0038<br> **0.0033** | 0.0050<br>  0.0039<br>  0.0032<br>  **0.0028** |
 | Dataset: Level 2 | CNN-LSTM ($\alpha$)<br>  CNN-LSTM ($\beta$)<br>   CNN-LSTM ($\gamma$)<br>  **CNN-LSTM ($\delta$)**| 0.0126<br>  0.0097<br>  0.0082<br> **0.0065**  | 0.0172<br>  0.0133<br>  0.0119<br> **0.0107** | 0.0154<br>  0.0127<br>  0.0107<br> **0.0079** |
